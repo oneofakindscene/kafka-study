@@ -4,3 +4,4 @@
 - 강의명 : Kafka 완전 정복 : 클러스터 구축부터 MSA 환경 활용까지
 - confluent kafka download : [링크](https://www.confluent.io/previous-versions/)
   - 6.2.1 버전 활용
+- linkedin Burrow : [링크](https://github.com/linkedin/Burrow)
